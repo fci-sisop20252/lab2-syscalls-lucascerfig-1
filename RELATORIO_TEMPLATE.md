@@ -75,7 +75,7 @@ strace -e openat,read,close ./ex2_leitura
 
 | Buffer Size | Chamadas read() | Tempo (s) |
 |-------------|-----------------|-----------|
-| 16          |                 |           |
+| 16          |3|10|
 | 64          |                 |           |
 | 256         |                 |           |
 | 1024        |                 |           |

@@ -16,7 +16,7 @@ int main() {
     
     // printf() é uma função da biblioteca C
     // Ela usa buffering interno para otimizar I/O
-    printf("Primeira mensagem via printf\n");
+    printf("1a mensagem via printf\n");
     printf("Segunda mensagem via printf\n");
     printf("Terceira mensagem via printf\n");
     
